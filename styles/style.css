@@ -1,0 +1,65 @@
+html{
+    min-height: 50%;
+}
+
+body{
+    margin: 10%;
+    padding: 0;
+    font-family: sans-serif;
+    background-color: #130468ec;
+    min-height: 50%;
+    padding-bottom: 5rem;
+    font-size: 13px;
+}
+
+
+#sura{
+    color: white;
+}
+
+.label{
+    color: white;
+    font-size: 20px;
+}
+
+#registro{
+    color: white;
+    font-size: 20px;
+    display: flex;
+    justify-content: right;
+}   
+#login{
+    color: white;
+    font-size: 20px;
+    display: flex;
+    justify-content: right;
+}
+
+#bodyRegistro{
+    height: 650px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#formRegistro{
+    background: white;
+    padding: 40px 0;
+}
+#formLogIn{
+    background: white;
+    padding: 40px 0;
+}
+.form{
+    width: 100%;
+    margin: auto;
+}
+form .grupo{
+    position: relative;
+    margin: 45px;
+}
+
+#btnRegistro{
+    display: block;
+    margin: 10px auto;
+}
+
